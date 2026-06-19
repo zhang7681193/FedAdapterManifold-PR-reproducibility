@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the associated manuscript."
+title: "FedAdapterManifold reproducibility package and experimental results"
+authors:
+  - family-names: Zhang
+    given-names: Leyuan
+  - family-names: Long
+    given-names: Yang
+type: dataset
+repository-code: "https://github.com/zhang7681193/FedAdapterManifold-PR-reproducibility"
+abstract: "Reproducibility package for the manuscript Federated Visual LoRA Adaptation via Adapter Subspace Manifold Routing."
+keywords:
+  - federated learning
+  - visual recognition
+  - LoRA
+  - parameter-efficient fine-tuning
+  - adapter routing
+  - subspace diagnostics
+license: MIT

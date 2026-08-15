@@ -8,7 +8,7 @@ authors:
     given-names: Yang
 type: dataset
 repository-code: "https://github.com/zhang7681193/FedAdapterManifold-PR-reproducibility"
-abstract: "Reproducibility package for the manuscript Federated Visual LoRA Adaptation via Adapter Subspace Manifold Routing."
+abstract: "Reproducibility package for the manuscript FedAdapterManifold: Deciding When Federated Visual LoRA Adapters Are Safe to Share."
 keywords:
   - federated learning
   - visual recognition
